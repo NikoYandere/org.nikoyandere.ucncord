@@ -1,0 +1,19 @@
+--UCN PACKAGE MANAGER MANIFEST--
+name:org.nikoyandere.ucncord
+manifest version:0.1.0-alpha
+developer:nikoyandere
+publisher:Nikoyandere Community
+exec:python3 ~/.ucndata/packages/org.nikoyandere.ucncord/ucncord/ucncord.py
+Dependencies
+(pacman)
+python-pyqt5
+python-pyqt5-webengine
+python-requests
+(apt)
+python3-pyqt5
+python3-pyqt5.qtwebengine
+python3-requests
+(dnf)
+python3-qt5
+python3-qt5-webengine
+python3-requests
