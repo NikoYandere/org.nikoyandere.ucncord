@@ -2,7 +2,7 @@
 name:org.nikoyandere.ucncord
 manifest version:0.1.0-alpha
 developer:nikoyandere
-publisher:Nikoyandere Community
+publisher:Nikoyandere
 exec:python3 ~/.ucndata/packages/org.nikoyandere.ucncord/ucncord/ucncord.py
 Dependencies
 (pacman)
